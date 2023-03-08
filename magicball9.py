@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[37]:
-
-
 import random
 import tkinter as tk
 
@@ -38,12 +32,4 @@ lbl = tk.Label(root, font=('calibri', 11, 'bold'),
                foreground='white')
 lbl.pack(anchor='center')
 lbl.config(text=fortune)
-
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
