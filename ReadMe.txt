@@ -12,3 +12,4 @@ The program will display a window with the text "Magic ball" at the top and a ra
 Click the "X" button in the top right corner of the window to close the program.
 Customization
 You can customize the program by modifying the list of possible answers in the getAnswer function. You can also change the font and color of the text in the graphical window by modifying the arguments of the Label constructor.
+all the best
